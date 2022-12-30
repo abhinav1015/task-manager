@@ -1,4 +1,4 @@
-# task-manager
+# Task-manager
 The task-manager app is a powerful and user-friendly tool for managing and organizing tasks
 and activities. The app's endpoints enable users to create, update, and delete tasks, as well as
 view and manage their task lists. Users can also upload and delete their avatar images, and
